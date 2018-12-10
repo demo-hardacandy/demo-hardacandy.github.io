@@ -22,26 +22,26 @@ To view the display on the mobile phone, scan the QR code browser below to open 
 
 
 
-- ### Theme feature
+### Theme feature
 
-  - Theme-based `jekyll 3.8.1`development
-  - Responsive layout
-  - Article tag index
-  - Article timeline index
-  - Blogger personal information display
-  - Support 9 kinds of code highlighting theme colors
-  - Support `dispus`, `laibili`, `Gitment`three kinds comment system
-  - Support `Baidu statistic ` , `Google Analytics` two website tracking systems
-  - Support 13 different social platform icons and link address pointing
-  - Support article sharing intersections on 11 different platforms
-  - **Full language Translation in English. including README.md and all code Documentation.**
-  - **Support sitemap.xml**
-  - **Support nice preloader (pure css) for better user experience**
-  - **Support mp3 embedder which can detects URL’s that point to mp3 files and replaces them with a default HTML5 player. And also support Auto-Play, looping**
-  - **Support Embeded Youtube, Vimeo Videos with Auto-Play, looping feature**
-  - **Support breadcrumd for cool navigational hierarchy.**
-  - **Added some Author Schema Data (ld+json) for better seo support.**
-  - **Support Integrated GUI editor. and CMS-style graphical interface name** 
+- Theme-based `jekyll 3.8.1`development
+- Responsive layout
+- Article tag index
+- Article timeline index
+- Blogger personal information display
+- Support 9 kinds of code highlighting theme colors
+- Support `dispus`, `laibili`, `Gitment`three kinds comment system
+- Support `Baidu statistic ` , `Google Analytics` two website tracking systems
+- Support 13 different social platform icons and link address pointing
+- Support article sharing intersections on 11 different platforms
+- **Full language Translation in English. including README.md and all code Documentation.**
+- **Support sitemap.xml**
+- **Support nice preloader (pure css) for better user experience**
+- **Support mp3 embedder which can detects URL’s that point to mp3 files and replaces them with a default HTML5 player. And also support Auto-Play, looping**
+- **Support Embeded Youtube, Vimeo Videos with Auto-Play, looping feature**
+- **Support breadcrumd for cool navigational hierarchy.**
+- **Added some Author Schema Data (ld+json) for better seo support.**
+- **Support Integrated GUI editor. and CMS-style graphical interface name** 
 
 
 
