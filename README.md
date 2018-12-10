@@ -41,7 +41,7 @@ To view the display on the mobile phone, scan the QR code browser below to open 
 - **Support Embeded Youtube, Vimeo Videos with Auto-Play, looping feature**
 - **Support breadcrumd for cool navigational hierarchy.**
 - **Added some Author Schema Data (ld+json) for better seo support.**
-- **Support Integrated GUI editor. and CMS-style graphical interface name** 
+- **Support Integrated GUI editor. and CMS-style graphical interface name**
 
 
 
@@ -125,22 +125,21 @@ and finally run  `jekyll server`or `bundle exec jekyll serve`to open Jekyll serv
 ### Configuration document
 
 - Start
-  - [About blog](#About blog)
-  - [write an essay](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#write an essay)
-  - [Jekyll-Admin integrated GUI editor. and CMS-style graphical interface](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#Jekyll Admin)
-- Component
-  - [Blogger personal information](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#Blogger personal information)
-  - [social media](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#social media)
-  - [Home display information](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#Home display information)
-  - [Navigation Bar](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#Navigation Bar)
-  - [Pagination](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#Pagination)
-  - [Code highlighting theme](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#Code highlighting theme)
-  - [Links](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#Links)
-  - [Footer](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#Footer)
+  - [About blog](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#about-blog)
+  - [write an essay](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#write-an-essay)
+  - [Jekyll-Admin integrated GUI editor. and CMS-style graphical interface](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#jekyll-admin )
+  - [Blogger personal information](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#blogger-personal-information)
+  - [social media](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#social-media)
+  - [Home display information](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#home-display-information)
+  - [Navigation Bar](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#navigation-bar)
+  - [Pagination](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#pagination)
+  - [Code highlighting theme](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#code-highlighting-theme)
+  - [Links](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#links)
+  - [Footer](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#footer)
 - Third party service
-  - [Comment system switching](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#Comment system switching)
-  - [Article sharing intersection](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#Article sharing intersection)
-  - [Website traffic tracking configuration](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#Website traffic tracking configuration)
+  - [Comment system switching](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#comment-system-switching)
+  - [Article sharing intersection](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#article-sharing-intersection)
+  - [Website traffic tracking configuration](https://github.com/JonyBepary/HardCandy-Jekyll-Mod#website-traffic-tracking-configuration)
 
 > By modifying the `_config.yml` files in general  , you can easily build your own personal blog.
 >
@@ -467,10 +466,10 @@ google-ID: '<UA-********-**>'
 
 In `baidu-url`and `google-ID`the respective fill in the relevant information acquired by registration. Use `true`or `false`open or close them. For the Chinese mainland network environment, Baidu statistics are enabled by default, of course, you can open more.
 
-### License license
+### License
 
 HardCandy-Jekyll is licensed under  [MIT](https://github.com/JonyBepary/HardCandy-Jekyll-Mod/blob/master/LICENSE) .
 
 ### Ask Star for attention
 
-See here, if you like [his](https://github.com/xukimseven/) small project, welcome to download and use him, please also give him a little star ![Stuck_out_tongue_winking_eye](https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png) Thank you.
+See here, if you like [his](https://github.com/xukimseven/) awsome project with [my](https://github.com/JonyBepary) little effort, welcome to download and use this, please also give a little star ![Stuck_out_tongue_winking_eye](https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png) Thank you.
